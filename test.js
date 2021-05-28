@@ -22,4 +22,5 @@ for(index; index < 5; index++){
     print(index);
 }
 
-console.log("hello world,") 
+console.log("hello world,");
+console.log(",dlrow olleh");
