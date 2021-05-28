@@ -1,7 +1,7 @@
 // Author: Ethan Tanase
 // Project: Random testing of everything learned summarized
 // Date: 5/25/2021
-// Updated: 5/26/2021
+// Updated: 5/27/2021
 
 // Loops I'm learning: For loops while loops and do while loops
 // Functions I'm learning: Normal functions and recursive functions
@@ -21,3 +21,5 @@ var Array1 = [0, 1, 2, 3, 4, 5];
 for(index; index < 5; index++){
     print(index);
 }
+
+console.log("hello world,") 
