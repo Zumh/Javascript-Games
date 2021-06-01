@@ -1,0 +1,26 @@
+.button {
+    background: #3498db;
+    text-align: center;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .button:hover {
+    background: #217ab9;
+    text-decoration: none;
+  }
+
+  .flipImage{
+      width:100px;
+  }
+
+  .gameTile{
+      display:inline-block;
+      border:1px solid black;
+  }
